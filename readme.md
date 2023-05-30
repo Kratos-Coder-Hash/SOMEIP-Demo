@@ -2,7 +2,7 @@ SOMEIP_DEMO
 
 本demo来自他人，博客地址：
 
-[SOMEIP环境搭建以及Demo详细介绍]([(105条消息) SOMEIP环境搭建以及Demo详细介绍_苹果乐园112的博客-CSDN博客](https://blog.csdn.net/qq_30391343/article/details/123568915))
+[SOMEIP环境搭建以及Demo详细介绍](https://blog.csdn.net/qq_30391343/article/details/123568915)
 
 需要编译的其他依赖库可以参考如下：
 
