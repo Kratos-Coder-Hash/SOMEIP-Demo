@@ -1,0 +1,3 @@
+SET VSOMEIP_CONFIGURATION=.\vsomeip-client.json
+SET VSOMEIP_APPLICATION_NAME=AcefClient
+.\AcefClient
