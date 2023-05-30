@@ -6,5 +6,5 @@ CXX_FLAGS =  -pthread -std=c++0x
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/xiedeju/code/opensource/SOMEIP-Demo/src-gen -I/home/xiedeju/code/opensource/SOMEIP-Demo/src -I/home/xiedeju/code/opensource/SOMEIP-Demo/inc 
+CXX_INCLUDES = -I/home/lighthouse/someip/SOMEIP-Demo/src-gen -I/home/lighthouse/someip/SOMEIP-Demo/src -I/home/lighthouse/someip/SOMEIP-Demo/inc 
 

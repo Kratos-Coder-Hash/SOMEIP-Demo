@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/xiedeju/code/opensource/SOMEIP-Demo
+CMAKE_SOURCE_DIR = /home/lighthouse/someip/SOMEIP-Demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/xiedeju/code/opensource/SOMEIP-Demo/build
+CMAKE_BINARY_DIR = /home/lighthouse/someip/SOMEIP-Demo/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -78,14 +78,14 @@ clean: CMakeFiles/AcefClient.dir/clean
 CMakeFiles/CommShared.dir/all:
 	$(MAKE) -f CMakeFiles/CommShared.dir/build.make CMakeFiles/CommShared.dir/depend
 	$(MAKE) -f CMakeFiles/CommShared.dir/build.make CMakeFiles/CommShared.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles --progress-num=10,11,12,13 "Built target CommShared"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles --progress-num=10,11,12,13 "Built target CommShared"
 .PHONY : CMakeFiles/CommShared.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CommShared.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CommShared.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 0
 .PHONY : CMakeFiles/CommShared.dir/rule
 
 # Convenience name for target.
@@ -105,14 +105,14 @@ CMakeFiles/CommShared.dir/clean:
 CMakeFiles/AcefService.dir/all:
 	$(MAKE) -f CMakeFiles/AcefService.dir/build.make CMakeFiles/AcefService.dir/depend
 	$(MAKE) -f CMakeFiles/AcefService.dir/build.make CMakeFiles/AcefService.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles --progress-num=5,6,7,8,9 "Built target AcefService"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles --progress-num=5,6,7,8,9 "Built target AcefService"
 .PHONY : CMakeFiles/AcefService.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AcefService.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AcefService.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 0
 .PHONY : CMakeFiles/AcefService.dir/rule
 
 # Convenience name for target.
@@ -132,14 +132,14 @@ CMakeFiles/AcefService.dir/clean:
 CMakeFiles/AcefClient.dir/all:
 	$(MAKE) -f CMakeFiles/AcefClient.dir/build.make CMakeFiles/AcefClient.dir/depend
 	$(MAKE) -f CMakeFiles/AcefClient.dir/build.make CMakeFiles/AcefClient.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles --progress-num=1,2,3,4 "Built target AcefClient"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles --progress-num=1,2,3,4 "Built target AcefClient"
 .PHONY : CMakeFiles/AcefClient.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AcefClient.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/AcefClient.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiedeju/code/opensource/SOMEIP-Demo/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lighthouse/someip/SOMEIP-Demo/build/CMakeFiles 0
 .PHONY : CMakeFiles/AcefClient.dir/rule
 
 # Convenience name for target.

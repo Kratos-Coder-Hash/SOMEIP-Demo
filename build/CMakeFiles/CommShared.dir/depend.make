@@ -61,6 +61,7 @@ CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o:
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/application.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/constants.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/defines.hpp
+CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/deprecated.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/enumeration_types.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/export.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/function_types.hpp
@@ -72,8 +73,10 @@ CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o:
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/payload.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/primitive_types.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/runtime.hpp
+CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/structured_types.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/trace.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/vsomeip.hpp
+CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../inc/vsomeip/vsomeip_sec.h
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../src-gen/v1/commonapi/demo/Comm.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../src-gen/v1/commonapi/demo/CommSomeIPDeployment.hpp
 CMakeFiles/CommShared.dir/src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.cpp.o: ../src-gen/v1/commonapi/demo/CommSomeIPStubAdapter.hpp

@@ -59,6 +59,7 @@ CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../in
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/application.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/constants.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/defines.hpp
+CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/deprecated.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/enumeration_types.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/export.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/function_types.hpp
@@ -70,8 +71,10 @@ CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../in
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/payload.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/primitive_types.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/runtime.hpp
+CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/structured_types.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/trace.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/vsomeip.hpp
+CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../inc/vsomeip/vsomeip_sec.h
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../src-gen/v1/commonapi/demo/Comm.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../src-gen/v1/commonapi/demo/CommProxyBase.hpp
 CMakeFiles/AcefClient.dir/src-gen/v1/commonapi/demo/CommSomeIPProxy.cpp.o: ../src-gen/v1/commonapi/demo/CommSomeIPDeployment.hpp
