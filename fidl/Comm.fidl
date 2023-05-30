@@ -7,7 +7,7 @@ package commonapi.demo
 
 interface Comm {
     version { major 1 minor 0 }
-
++
     method sendMessage {
         in {
             String name
