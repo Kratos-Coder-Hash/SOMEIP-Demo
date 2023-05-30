@@ -38,3 +38,6 @@ cd install
 ./runAcefClient.sh
 ```
 
+如果重新生成文件，可以执行如下脚本
+
+`./generate.sh`
